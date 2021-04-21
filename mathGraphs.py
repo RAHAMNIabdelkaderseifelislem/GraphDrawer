@@ -1,3 +1,4 @@
+#pip install matplotlib
 import matplotlib.pyplot as plt
 
 def draw(x,y):        
