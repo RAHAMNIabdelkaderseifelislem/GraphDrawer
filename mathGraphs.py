@@ -1,5 +1,6 @@
 #pip install matplotlib
 import matplotlib.pyplot as plt
+import numpy as np
 
 def draw(x,y):        
     plt.plot(x, y)
